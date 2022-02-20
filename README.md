@@ -1,6 +1,7 @@
-# Projeto de Engenharia de Software
+# Projeto de Engenharia de Software 😎 🖥️
 ## Tema: Medonça Informática
 #### Descrição:
+Consiste em um sistema de monitoramento de telas e controle de tempo de utilização das máquinas, também possuirá controle de impressoras e demais dispositivos
 
 Nome dos integrantes:
 Beatriz Alves Ribeiro - 0030482111036
