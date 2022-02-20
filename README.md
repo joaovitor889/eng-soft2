@@ -1,9 +1,10 @@
 # Projeto de Engenharia de Software 😎 🖥️
 ## Tema: Medonça Informática
-#### Descrição:
+### Descrição:
 Consiste em um sistema de monitoramento de telas e controle de tempo de utilização das máquinas, também possuirá controle de impressoras e demais dispositivos
 
 Nome dos integrantes:
+
 Beatriz Alves Ribeiro - 0030482111036
 
 Bruno Araújo Nicanor Da Silva - 0030482111041
