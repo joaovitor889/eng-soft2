@@ -17,6 +17,7 @@ Consiste em um sistema de monitoramento de telas e controle de tempo de utiliza√
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 + HTML
@@ -24,3 +25,4 @@ Consiste em um sistema de monitoramento de telas e controle de tempo de utiliza√
 + Angular
 + JavaScript
 + MySQL
++ Java
