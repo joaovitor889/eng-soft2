@@ -11,3 +11,8 @@ Consiste em um sistema de monitoramento de telas e controle de tempo de utiliza√
 + Pedro Santos Marum Fraz√£o - 0030482111028
 
 ### Tecnologias do Projeto: 
++ HTML
++ CSS
++ Angular
++ JavaScript
++ MySQL
