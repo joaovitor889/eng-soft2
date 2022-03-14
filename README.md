@@ -30,3 +30,6 @@ Consiste em um sistema de monitoramento de telas e controle de tempo de utiliza√
 + Angular
 + MySQL
 
+### Diagrama de Caso de Uso
+https://lucid.app/lucidchart/2202e73c-65a2-438f-8c77-f961fa869754/edit?invitationId=inv_20b9f634-8f96-4879-974a-ef6b2cb53e3c
+
