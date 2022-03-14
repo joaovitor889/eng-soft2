@@ -13,6 +13,7 @@ Consiste em um sistema de monitoramento de telas e controle de tempo de utiliza√
 ### Tecnologias do Projeto: 
 <div style="display: inline_block">
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img  aling="cebter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img  aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -22,6 +23,7 @@ Consiste em um sistema de monitoramento de telas e controle de tempo de utiliza√
 </div>
 
 + Java
++ SpringBoot
 + JavaScript
 + HTML
 + CSS
