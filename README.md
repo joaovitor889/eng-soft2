@@ -1,9 +1,8 @@
 # Projeto de Engenharia de Software 😎 🖥️
-## Tema: Medonça Informática
+## Tema: 🍭 EXTREME DOCES 🍭
 > Descrição:
-🍭 EXTREME DOCES 🍭
-Extreme doces é uma doceria que atende diversos comércios da cidade de Sorocaba e região.
-O sistema é dividido em duas áreas, a do cliente e a do admin.
+Esse projeto tem como objetivo de ajudar nas vendas da Extreme doces que é uma doceria na qual atende diversos comércios da cidade de Sorocaba e região.
+O sistema será dividido em duas partes: 
 
 Área do Cliente têm:
 + Cadastro/Login: Onde o cliente colocará todos os seus dados e um email e senha de identificação.
