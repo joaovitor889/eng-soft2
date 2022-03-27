@@ -12,7 +12,7 @@ O sistema será dividido em duas partes:
  + Carrinho de compra: Onde o cliente finaliza seu pedido podendo pagar na entrega ou pelo cartão. 
  + Área de pedido: Onde o cliente pode ver o status dos seus pedidos e o histórico.
 ##### Área do Admin têm:
- +  Login: Um login que só o admin possui.
+ + Login: Um login que só o admin possui.
  + Cadastro dos produtos: Onde o responsável da doceria cadastra seus produtos com a imagens e os dados deles.
  + Pedidos: Onde o admin vizualiza seus pedidos, será separado por pedidos entregues e pedidos pendentes.
 <br/>
