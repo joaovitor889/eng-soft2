@@ -2,18 +2,16 @@
 ## Tema: 🍭 EXTREME DOCES 🍭
 
 
-Descrição:
+### Descrição:
 Esse projeto tem como objetivo de ajudar nas vendas da Extreme doces que é uma doceria na qual atende diversos comércios da cidade de Sorocaba e região.
 O sistema será dividido em duas partes: 
-
- Área do Cliente têm:
+##### Área do Cliente têm:
  + Cadastro/Login: Onde o cliente colocará todos os seus dados e um email e senha de identificação.
  + Produtos: Onde o cliente seleciona seus produtos para realizar a compra.
  + Contato: Página de contato contendo os dados para contato da doceria.
  + Carrinho de compra: Onde o cliente finaliza seu pedido podendo pagar na entrega ou pelo cartão. 
  + Área de pedido: Onde o cliente pode ver o status dos seus pedidos e o histórico.
-
- Área do Admin têm:
+##### Área do Admin têm:
  +  Login: Um login que só o admin possui.
  + Cadastro dos produtos: Onde o responsável da doceria cadastra seus produtos com a imagens e os dados deles.
  + Pedidos: Onde o admin vizualiza seus pedidos, será separado por pedidos entregues e pedidos pendentes.
