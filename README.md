@@ -15,6 +15,7 @@ O sistema será dividido em duas partes:
  +  Login: Um login que só o admin possui.
  + Cadastro dos produtos: Onde o responsável da doceria cadastra seus produtos com a imagens e os dados deles.
  + Pedidos: Onde o admin vizualiza seus pedidos, será separado por pedidos entregues e pedidos pendentes.
+<br/>
 
 ### Nome dos integrantes:
 + Beatriz Alves Ribeiro - 0030482111036
@@ -22,6 +23,7 @@ O sistema será dividido em duas partes:
 + Gustavo Rodrigues Da Silva - 0030482111017
 + João Vitor Dos Reis Oliveira - 0030482111024
 + Pedro Santos Marum Frazão - 0030482111028
+<br/>
 
 ### Tecnologias do Projeto: 
 <div style="display: inline_block">
