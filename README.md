@@ -1,9 +1,9 @@
 # Projeto de Engenharia de Software 😎 🖥️
-## Tema: 🍭 EXTREME DOCES 🍭
+## Tema: 🍭 XTREME DOCES 🍭
 
 
 ### Descrição:
-Esse projeto tem como objetivo de ajudar nas vendas da Extreme doces que é uma doceria na qual atende diversos comércios da cidade de Sorocaba e região.
+Esse projeto tem como objetivo de ajudar nas vendas da Xtreme doces que é uma doceria na qual atende diversos comércios da cidade de Sorocaba e região.
 O sistema será dividido em duas partes: 
 ##### Área do Cliente têm:
  + Cadastro/Login: Onde o cliente colocará todos os seus dados e um email e senha de identificação.
