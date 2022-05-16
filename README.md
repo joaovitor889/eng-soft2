@@ -47,7 +47,7 @@ O sistema será dividido em duas partes:
 
 ---
 
-_**Link**_
+_**Links**_
 - [Plannig Poker](https://planningpokeronline.com/WEqXqPBeFlfQqEJ2ghB8)
 - [Diagrama de Caso de Uso](https://lucid.app/lucidchart/2202e73c-65a2-438f-8c77-f961fa869754/edit?invitationId=inv_20b9f634-8f96-4879-974a-ef6b2cb53e3c)
 - [Diagrama Coceitual](https://lucid.app/lucidchart/4e8d8981-9ae7-482b-9b40-9655d3ecd161/edit?beaconFlowId=0A9DE825035A4A5E&invitationId=inv_d9972066-db5f-4f7e-a70e-f6f3cbfd2430&page=0_0#)
