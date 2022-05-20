@@ -23,7 +23,7 @@ O sistema será dividido em duas partes:
 + Bruno Araújo Nicanor Da Silva - 0030482111041
 + Gustavo Rodrigues Da Silva - 0030482111017
 + João Vitor Dos Reis Oliveira - 0030482111024
-+ Pedro Santos Marum Frazão - 0030482111028
++ Pedro Santos Marum Frazão - 003048211102
 
 ### Tecnologias do Projeto: 
 <div style="display: inline_block">
