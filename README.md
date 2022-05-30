@@ -15,7 +15,9 @@ O sistema será dividido em duas partes:
    + Login: Um login que só o admin possui.
    + Cadastro dos produtos: Onde o responsável da doceria cadastra seus produtos com a imagens e os dados deles.
    + Pedidos: Onde o admin vizualiza seus pedidos, será separado por pedidos entregues e pedidos pendentes.
-   
+ --- 
+   ### Protótipo:
+  + [Figma](https://www.figma.com/file/LppvppV3CdNMWivOzN5Nuj/Teste1?node-id=0%3A1)
  ---
 
 ### Nome dos integrantes:
