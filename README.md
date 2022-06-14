@@ -19,7 +19,6 @@ O sistema será dividido em duas partes:
    ### Protótipo:
    #### Desing do projeto:
   + [Figma web](https://www.figma.com/file/LppvppV3CdNMWivOzN5Nuj/Teste1?node-id=0%3A1)
-  + [Figma mobile](https://www.figma.com/file/LppvppV3CdNMWivOzN5Nuj/Teste1?node-id=0%3A1)
 
   #### Diagramas do projeto:
   - [Diagrama de Caso de Uso](https://lucid.app/lucidchart/2202e73c-65a2-438f-8c77-f961fa869754/edit?invitationId=inv_20b9f634-8f96-4879-974a-ef6b2cb53e3c)
